@@ -132,6 +132,9 @@ brew "socat"
 # Internet file retriever
 brew "wget"
 
+# Screen recording utility
+brew "kap"
+
 # Download YouTube videos from the command-line
 brew "youtube-dl"
 
